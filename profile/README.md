@@ -20,5 +20,14 @@
     </tbody>
 </table>
 
+## 사용하는 기술 및 담당
+
+| 분야 | 담당자 | 기술 | 간단소개 | 소속 | 학과 |
+| ------------- | ---------------------- | -------------------------- | ----------------------- | ----------------------------  | -------------- | 
+| Design  | 김진현 | <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>| 애플리케이션의 디자인을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
+| Frontend | 김진현 | <img src="https://img.shields.io/badge/Flutter-61DAFB?style=flat-square&logo=Flutter&logoColor=white"/>| 애플리케이션의 UI 및 프론트엔드를 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
+| Backend | 유진승 | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>| 애플리케이션의 서버 및 API 구축을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
+| Infra | 유진승 | <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white"/>| 애플리케이션 서버의 인프라 구축을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
+
 ## AWS CICD Pipeline Architecture
 <img width="861" alt="CICD" src="https://github.com/user-attachments/assets/7920c01b-ccb2-4e06-9b81-cabc6d6dddff">
