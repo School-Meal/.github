@@ -3,6 +3,7 @@
 </div>
 
 ## 아이디어 소개
+etc..
 
 ## 팀원 소개
 <table align=center>
