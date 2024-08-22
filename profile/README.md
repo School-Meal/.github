@@ -33,3 +33,7 @@
 
 ## AWS CICD Pipeline Architecture
 <img width="861" alt="CICD" src="https://github.com/user-attachments/assets/7920c01b-ccb2-4e06-9b81-cabc6d6dddff">
+
+## ERD DIAGRAM
+<img width="759" alt="ERD" src="https://github.com/user-attachments/assets/02234396-8120-4c0f-b233-7b04ea4194a2">
+
